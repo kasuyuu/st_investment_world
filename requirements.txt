@@ -1,1 +1,7 @@
-
+numpy
+pandas
+matplotlib.pyplot
+networkx
+plotly.graph_objects
+plotly.express
+streamlit
