@@ -1,7 +1,6 @@
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 networkx
-plotly.graph_objects
-plotly.express
+plotly
 streamlit
