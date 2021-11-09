@@ -1,0 +1,137 @@
+﻿ID,Industry
+1001,Agricultural Products
+1010,Aluminum
+1030,Steel
+1040,Containers/Packaging (Paper)
+1050,Paper & Forest Products
+1070,Chemicals
+2040,Automobiles
+2050,Auto Parts & Equipment
+2060,Building Materials
+2100,Hardware & Tools
+2120,Homebuilding
+2130,Lodging-Hotels
+2140,Household Furnishings & App
+2170,Leisure Time (Products/Services)
+2175,Consumer (Jewelry/Novelties)
+2180,Publishing
+2190,Publishing-Newspapers
+2215,"Gaming, Lottery & Parimutuel"
+2220,Retail Specialty-Apparel
+2230,Retail Stores-Dept Stores
+2250,Retail Stores-Gen Mer Chain
+2254,Retail (Discounters/Offprice)
+2255,Retail (Computers/Electrons)
+2256,Retail (Home Shopping/Catalog)
+2257,Retail (Building Supplies)
+2260,Retail-Specialty
+2265,Distributors (Durables)
+2400,Services (Advertising/Mktg)
+2410,Services (Commercial Consum)
+3010,Beverages (Alcoholic)
+3020,Beverages (Non-Alcoholic)
+3030,"Broadcasting (TV,Radio,Cable)"
+3035,Distributors (Food & Health)
+3040,Foods
+3050,Tobacco
+3060,Household Products (Non-Durables)
+3065,Housewares
+3070,Personal Care
+3080,Entertainment
+3100,Printing
+3140,Retail Stores-Drug Store
+3200,Services (Employment)
+3210,Services (Facils/Enviromntl)
+3220,Services (Payroll Process.)
+3230,Services (Rentals)
+3240,Retail Stores-Food Chains
+3250,Restaurants
+3510,Health Care (Diversified)
+3530,Health Care (Drugs/Pharms)
+3540,Health Care (Hospital Mgmt)
+3550,Health Care (Long Term Care)
+3560,Health Care (Managed Care)
+3570,Health Care (Med Prods/Sups
+3580,Health Care (Special Services)
+3590,Biotechnology
+4010,Oil & Gas (Refining & Mktg)
+4040,Oil & Gas (International Integrated)
+4050,Oil & Gas (Domestic Integrated)
+4060,Oil & Gas (Exploration & Production)
+5010,Investment Banking/Brokerage
+5020,Savings & Loan Companies
+5025,Banks (Regional)
+5030,Banks (Major Regional)
+5040,Banks (Money Center)
+5060,Consumer Finance
+5070,Insurance Brokers
+5080,Insurance (Life/Health)
+5090,Insurance (Multi-Line)
+5100,Insurance (Property-Casualty)
+5110,Financial (Diversified)
+5150,Investment Management
+6010,Office Equipment & Supplies
+6015,Trucks & Parts
+6020,Aerospace/Defense
+6060,Containers-Metal & Glass
+6071,Engineering & Construction
+6100,Machinery
+6110,Manufacturing (Diversified)
+6111,Manufacturing (Specialized)
+6115,Metal Fabricators
+6120,Waste Management
+7040,Biofuels
+7100,Coal
+8030,Communications Equipment
+8045,Photography/Imaging
+8050,Computer Hardware
+8051,Computers (Networking)
+8052,Computers (Peripherals)
+8090,Electronics (Defense)
+8610,Cellular/Wireless Telecomms
+8620,Telephone (Local)
+8630,Telephone-Long Distance
+9010,Electric Companies
+9020,Natural Gas-Distr-Pipe Line
+9040,Water Utilities
+9100,Power Producers (Independ)
+9500,Shipping
+9510,Air Freight
+9520,Airlines
+9530,Railroads
+9540,Truckers
+9560,Semiconductors
+9570,Diversified Metals
+9580,Gold/Precious Metals Mining
+9590,Metals Mining (other)
+9600,Non-Metals Mining
+9610,Electrical Equipment & Components
+9620,Integrated Telecom
+9630,Specialty Communications
+9640,Consumer Electronics
+9650,Textiles
+9670,Retail (Home Items)
+9680,Retail (Footwear)
+9690,Oil & Gas (Services)
+9700,Mutual Funds
+9705,Investment Trust
+9710,Real Estate
+9720,REIT-Apartments
+9730,REIT-Factory Outlet Centers
+9740,REIT-Health Care
+9750,REIT-Hotels
+9760,REIT-Industrial Properties
+9780,REIT-Manufactured Housing
+9790,REIT-Mixed Properties
+9800,REIT-Net Lease
+9810,REIT-Office Properties
+9820,REIT-Regional Malls
+9830,REIT-Self-Storage
+9840,REIT-Shopping Centers
+9850,Computer Software
+9860,Computer Services
+9870,Internet
+9880,Miscellaneous Transportation
+9890,Multi-Industry
+9900,Holding Companies
+9910,Electronics

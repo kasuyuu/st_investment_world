@@ -1,0 +1,26 @@
+﻿ID,OwnerType
+100,Investment Managers
+101,Bank and Trust
+102,Endowment Fund
+103,Finance Company
+104,Foundation
+106,Hedge Fund
+107,Investment Advisor
+108,Insurance Company
+110,Pension Fund
+111,Private Equity
+112,Venture Capital
+113,Investment Advisor/Hedge Fund
+114,Sovereign Wealth Fund
+200,Brokerage Firms
+201,Research Firm
+202,Independent Research Firm
+300,Strategic Entities
+301,Corporation
+302,Holding Company
+303,Individual Investor
+304,Government Agency
+400,Funds
+401,Mutual Fund
+402,Hedge Fund Portfolio
+403,Pension Fund Portfolio
